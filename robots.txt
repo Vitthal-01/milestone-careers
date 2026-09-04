@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vitthal-01.github.io/milestone-careers/sitemap.xml
